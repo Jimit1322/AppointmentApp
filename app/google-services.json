@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192271645677",
+    "project_id": "jimit131005",
+    "storage_bucket": "jimit131005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192271645677:android:582bdbdd726a1e644c05e4",
+        "android_client_info": {
+          "package_name": "com.example.appointmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkS9m-oa6IzmeIy7wa_u3Li8ReOxi1ruQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
